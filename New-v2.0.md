@@ -1,10 +1,10 @@
 {
-"Title": "⭕️  هشدار وضعیت قرمز  ⭕️",
-"Description": "● مجدد اینترنت‌ها رو دارن ملی میکنند ، کانفیگ V2ray ملی شکن داخل این کانال قرار دادیم سریع عضو شید 👇🏻",
-"Link": "tg://join?invite=e_WiFJBszqU4YWFi",
-"ColorWave": "#FFEB3B",
-"Color": "#FFEB3B",
-"ColorWaveTwo": "#F44336",
+"Title": "☆  بروزرسانی جدید  ☆",
+"Description": "سلام دوست عزیزم 🌺\n\n- این نسخه از کار افتاده ، نسخه جدید پرسرعت ، مود و منتشر شده رو از کانال تلگرام ما دریافت کنید 🤍",
+"Link": "tg://resolve?domain=Vpn_Shield",
+"ColorWave": "#FFFF00",
+"Color": "#FFFF00",
+"ColorWaveTwo": "#FFD600",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,10 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "3736",
-"ShowTime": "3",
-"Button": " عضویت فووووری ",
-"ButtonCancell": "  ",
-"Closure": "true",
+"MessageID": "1",
+"ShowTime": "999",
+"Button": "  دریافت نسخه جدید  ",
+"ButtonCancell": " بعدا ",
+"Closure": "false",
 "Show": "on"
 }
